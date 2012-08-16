@@ -50,3 +50,11 @@ The program does not seem to be distributed with a copy of the GPL or an offer o
 Busted.
 
 Oops.
+
+# License
+
+I (Mechanical snail) hereby release this document into the public domain according to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+
+The `SumatraPDF.exe` executable, as a derivative work of Sumatra PDF, is licensed under the [GNU GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).
+
+Other files are presumably copyright the authors of BGP, and are therefore not published here. They are currently available from the BGP website at the locations specified in the text.
